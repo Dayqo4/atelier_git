@@ -2,4 +2,5 @@
 Premier projet suivi avec Git.
 ## Objectif
 Comprendre le workflow Git de base.
-1212
+## Modifications & dépot
+Comprendre le dépot Local / staging et la publication
