@@ -7,4 +7,5 @@ Comprendre le dépot Local / staging et la publication
 ## Modification en ligne
 **
 ## Test conflit 
-**
+Test en ligne
+
