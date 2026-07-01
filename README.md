@@ -8,4 +8,6 @@ Comprendre le dépot Local / staging et la publication
 **
 ## Test conflit 
 Test en ligne
-
+## Résolution conflit avec : 
+"git config pull.rebase false"
+& Exploration de "Resolve in Merge Editor"
