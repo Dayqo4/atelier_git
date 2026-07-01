@@ -4,5 +4,7 @@ Premier projet suivi avec Git.
 Comprendre le workflow Git de base.
 ## Modifications & dépot
 Comprendre le dépot Local / staging et la publication
-## MOdification en lign
+## Modification en ligne
+**
+## Test conflit 
 **
