@@ -6,5 +6,6 @@ Comprendre le workflow Git de base.
 Comprendre le dépot Local / staging et la publication
 ## Modification en ligne
 **
-## Conflit 
-Test local
+## Test conflit 
+Test en ligne
+
