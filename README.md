@@ -5,7 +5,7 @@ Comprendre le workflow Git de base.
 ## Modifications & dépot
 Comprendre le dépot Local / staging et la publication
 ## Modification en ligne
-Test 1 
+Test 1 / Test 2 
 ## Test conflit 
 Test en ligne
 ## Résolution conflit avec : 
